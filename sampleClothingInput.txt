@@ -1,0 +1,30 @@
+T-shirt,Blue,Elegant,Perfect for all occasions
+T-shirt,Black,Vintage,Timeless design with a contemporary twist
+Shoes,Yellow,Relaxed,Made with high-quality material
+T-shirt,Orange,Casual,Timeless design with a contemporary twist
+Jacket,Brown,Relaxed,A great addition to any wardrobe
+Scarf,White,Sporty,Available in various sizes
+Hat,Pink,Relaxed,Comfortable and stylish
+Skirt,Orange,Boho,Comfortable and stylish
+Sweater,Pink,Elegant,Timeless design with a contemporary twist
+Shoes,Brown,Formal,A great addition to any wardrobe
+Dress,Red,Boho,Perfect for all occasions
+Dress,Purple,Casual,Comfortable and stylish
+T-shirt,Black,Trendy,A great addition to any wardrobe
+Jeans,Pink,Classic,Designed for everyday wear
+Dress,Orange,Casual,Ideal for outdoor activities
+Coat,Red,Elegant,Timeless design with a contemporary twist
+T-shirt,Blue,Boho,Warm and cozy for winter
+Jeans,Purple,Casual,Lightweight and breathable
+Jacket,Green,Relaxed,A great addition to any wardrobe
+T-shirt,Pink,Elegant,A great addition to any wardrobe
+Hat,Red,Trendy,Ideal for outdoor activities
+Skirt,Pink,Formal,Available in various sizes
+Dress,Green,Formal,Comfortable and stylish
+Hat,Yellow,Trendy,Designed for everyday wear
+T-shirt,Yellow,Trendy,Lightweight and breathable
+Shoes,Pink,Casual,Lightweight and breathable
+T-shirt,Red,Trendy,Designed for everyday wear
+Dress,Black,Formal,Lightweight and breathable
+Scarf,Yellow,Elegant,Comfortable and stylish
+Sweater,Orange,Relaxed,A great addition to any wardrobe
