@@ -1,0 +1,9 @@
+Fashion Chatbot Menu:
+1. Lets make a new clothing item
+2. Display the spectacular wardrobe
+3. Look for an item by its name
+4. Require an outfit suggestions?
+5. Nice, save my wardrobe to file
+6. I want to load a wardrobe from another file
+7. Exit (Oh man 😭)
+What's it going to be?
